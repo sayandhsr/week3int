@@ -1,0 +1,37 @@
+
+---
+
+# 🧪 `test_cases.txt` (Copy this)
+
+```txt
+Test Case 1:
+Input: Valid dataset
+Expected Output: Correct total revenue, average, highest sale, best product
+
+Test Case 2:
+Input: Missing values in quantity
+Expected Output: Missing values replaced with average
+
+Test Case 3:
+Input: Duplicate rows
+Expected Output: Duplicates removed
+
+Test Case 4:
+Input: Different product names
+Expected Output: Correct best-selling product identified
+
+Test Case 5:
+Input: Empty dataset
+Expected Output: Program handles gracefully (no crash)
+
+Test Case 6:
+Input: Non-numeric values in quantity
+Expected Output: Error handled or cleaned properly
+
+Test Case 7:
+Input: Large dataset
+Expected Output: Program runs without performance issues
+
+Test Case 8:
+Input: Column names with spaces/caps
+Expected Output: Code normalizes column names correctly
